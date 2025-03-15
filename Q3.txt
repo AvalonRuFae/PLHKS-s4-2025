@@ -1,0 +1,36 @@
+shop = ["A", "B", "C", "D", "E", "F", "G"]
+current_shop = input("My position: ")
+current_floor = -1
+#(a) To find the floor that the inputted shop is on
+for 
+
+
+#(b) Asks the user to input again and reorientates itself
+#    when it cannot find the shop inputted by the user
+while 
+
+
+
+
+
+#(c) To find the floor that the target shop is on
+#    and check whether the user input is valid
+goto_shop = input("I want to go to: ")
+goto_floor = -1
+
+
+
+
+
+
+
+
+
+
+#(d) Calculate the distance between the two shops,
+#    then determine the floor and direction that the user should go to
+direction = 
+if 
+    print("You should go up", direction, "level(s).")
+else:
+    print("You should go down", abs(direction), "level(s).")
