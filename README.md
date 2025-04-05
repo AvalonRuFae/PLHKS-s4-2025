@@ -1,5 +1,4 @@
-# PLHKS-s4-2025
+Submission Line: https://docs.google.com/forms/d/e/1FAIpQLSf1aOMp24hbfFZJ0oeGYhXtX2N_xiLEQDHvQY6V1w2jgld8wg/viewform?usp=dialog
 
-This serve as a repository for the teaching for PLHKS s4 SERP (2025 second term).
+Put the original python file and challenge python file in different file
 
-For the purpose of this class, each question will be posted in branhces, with submission link attached in the readme.md respectively
