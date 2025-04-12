@@ -1,0 +1,21 @@
+score = [10, 9, 8, 8.5, 7]
+coef = 2
+#(a) To calculate the sum of the scores awarded by the five judges
+sum5score = 0
+for
+
+
+#(b) To find the highest (maximum) and lowest (minimum) scores of an athlete awarded by the five judges
+maximum = score[0]
+minimum = score[0]
+for
+
+
+
+
+#(c) To calculate the athlete’s final score
+final_score = 0
+
+
+
+print(final_score)
