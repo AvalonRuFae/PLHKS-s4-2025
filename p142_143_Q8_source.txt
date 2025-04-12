@@ -1,0 +1,35 @@
+score = [9.5, 10, 9, 8, 8.5, 10, 10]
+coef = 2
+#(a) To find the highest (maximum),
+#    second highest (secondmax),
+#    lowest (minimum)
+#    and second lowest (secondmin) scores of an athlete awarded by the seven judges
+if 
+    maximum = 
+    secondmax = 
+    minimum = 
+    secondmin = 
+else:
+    
+    
+    
+    
+for
+
+
+
+
+
+
+
+
+
+
+#(b) To calculate the athlete’s final score
+sum7score = 0
+final_score = 0
+
+
+
+
+print(final_score)
