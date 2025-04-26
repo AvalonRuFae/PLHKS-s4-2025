@@ -1,0 +1,4 @@
+date = input()
+year =
+month = 
+day = 
