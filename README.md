@@ -1,5 +1,4 @@
-# PLHKS-s4-2025
+Submission link: https://docs.google.com/forms/d/e/1FAIpQLSf7jcHaxWhi9GXa6BDjB5ePPUMzca7UP1OJknMx3TyGOQpX1w/viewform?usp=dialog
 
-This serve as a repository for the teaching for PLHKS s4 SERP (2025 second term).
+I preped the link in advance this time :D
 
-For the purpose of this class, each question will be posted in branhces, with submission link attached in the readme.md respectively
